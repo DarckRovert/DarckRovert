@@ -74,26 +74,26 @@ Soy un arquitecto de software e ingeniero de sistemas enfocado en el desarrollo 
 
 <div align="center">
 
-| [JainaCore](https://github.com/DarckRovert/JainaCore) | [RED](https://github.com/DarckRovert/RED) |
+| [RED](https://github.com/DarckRovert/RED) | [mod-playerbots](https://github.com/DarckRovert/mod-playerbots) |
 | :---: | :---: |
-| <a href="https://github.com/DarckRovert/JainaCore"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=JainaCore&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/RED"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=RED&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
-| **Motor MMORPG con IA Neuronal & Audio 3D** | **Mensajería Descentralizada en Rust** |
+| <a href="https://github.com/DarckRovert/RED"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=RED&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/mod-playerbots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-playerbots&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
+| **Mensajería P2P Descentralizada en Rust** | **IA Táctica AAA y Multithreading para Bots** |
 
-| [ProjectJaina_Lab](https://github.com/DarckRovert/ProjectJaina_Lab) | [mod-playerbots](https://github.com/DarckRovert/mod-playerbots) |
+| [mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter) | [ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice) |
 | :---: | :---: |
-| <a href="https://github.com/DarckRovert/ProjectJaina_Lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=ProjectJaina_Lab&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/mod-playerbots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-playerbots&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
-| **Orquestación Clúster, Telemetría & DevOps** | **IA Táctica AAA y Multithreading para Bots** |
+| <a href="https://github.com/DarckRovert/mod-llm-chatter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-llm-chatter&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/ProjectJaina_Voice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=ProjectJaina_Voice&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
+| **Inferencia Conversacional Local (LLM) en Tiempo Real** | **Audio Espacial 3D WebRTC In-Game** |
 
 </div>
 
-### 🌟 [JainaCore](https://github.com/DarckRovert/JainaCore) — Motor de Videojuegos MMORPG de Nueva Generación
-> **El primer motor de servidor World of Warcraft (WotLK 3.3.5a) en el mundo con LoreBots Neuronales, IA Táctica AAA para Playerbots y Voz Proximidad 3D Espacial nativa.**
+### 🌟 Ecosistema JainaCore — Motor MMORPG de Nueva Generación
+> **El primer ecosistema de servidor World of Warcraft (WotLK 3.3.5a) con LoreBots Neuronales, IA Táctica AAA y Voz Proximidad 3D Espacial nativa.**
 
-- **LoreBots Neuronales:** Inferencia conversacional en tiempo real (LM Studio / Ollama) desacoplada mediante colas asíncronas no bloqueantes en MySQL, memoria de contexto por jugador y habla reactiva por proximidad.
-- **IA Táctica AAA para Bots:** Latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), selección de utilidad multihilo y blindaje de equipamiento garantizado.
-- **Audio Espacial WebRTC 3D:** Puerta de enlace de audio posicional con paneo estéreo HRTF y atenuación logarítmica ($\le 25$ yd).
-- **Módulos Core Soberanos:** [`mod-playerbots`](https://github.com/DarckRovert/mod-playerbots), [`mod-ale`](https://github.com/DarckRovert/mod-ale), [`mod-llm-chatter`](https://github.com/DarckRovert/mod-llm-chatter), [`mod-anticheat`](https://github.com/DarckRovert/mod-anticheat).
-- 🌐 [Visita el Portal Oficial de JainaCore](https://darckrovert.github.io/JainaCore/)
+- **LoreBots Neuronales:** Inferencia conversacional en tiempo real (LM Studio / Ollama) desacoplada mediante colas asíncronas no bloqueantes en MySQL, memoria de contexto por jugador y habla reactiva por proximidad vía [`mod-llm-chatter`](https://github.com/DarckRovert/mod-llm-chatter).
+- **IA Táctica AAA para Bots:** Latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), selección de utilidad multihilo y blindaje de equipamiento garantizado vía [`mod-playerbots`](https://github.com/DarckRovert/mod-playerbots).
+- **Audio Espacial WebRTC 3D:** Puerta de enlace de audio posicional con paneo estéreo HRTF y atenuación logarítmica ($\le 25$ yd) implementada en [`ProjectJaina_Voice`](https://github.com/DarckRovert/ProjectJaina_Voice).
+- **Módulos Core Adicionales:** [`mod-ale`](https://github.com/DarckRovert/mod-ale) (Eluna Lua Engine extendido) y [`mod-anticheat`](https://github.com/DarckRovert/mod-anticheat) (vigilancia de movimiento pasivo).
+- 🌐 [Visita el Portal Oficial de Project Jaina](https://darckrovert.github.io/ProjectJaina_Web/)
 
 ---
 
@@ -141,6 +141,7 @@ AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de Frame
     </td>
   </tr>
 </table>
+
 </div>
 
 ---
@@ -160,8 +161,7 @@ AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de Frame
 ### 🤝 Conexión y Ecosistema
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarckRovert)
-[![JainaCore Web](https://img.shields.io/badge/Portal-JainaCore-00ccff?style=for-the-badge&logo=firefox&logoColor=white)](https://darckrovert.github.io/JainaCore/)
-[![Project JAIna](https://img.shields.io/badge/Web-Project_JAIna-d4af37?style=for-the-badge&logo=google-chrome&logoColor=white)](https://darckrovert.github.io/ProjectJaina_Web/)
+[![Project JAIna Web](https://img.shields.io/badge/Portal-Project_JAIna-00ccff?style=for-the-badge&logo=firefox&logoColor=white)](https://darckrovert.github.io/ProjectJaina_Web/)
 [![Discord](https://img.shields.io/badge/Discord-Project_Jaina-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YFpGGy8RGR)
 
 <br/>
