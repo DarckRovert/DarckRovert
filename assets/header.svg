@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 240" width="100%" height="240">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050811" />
+      <stop offset="50%" stop-color="#0a1224" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <linearGradient id="cyberBorder" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#00e5ff;#8338ec;#d4af37;#00e5ff" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#8338ec" stop-opacity="0.9">
+        <animate attributeName="stop-color" values="#8338ec;#d4af37;#00e5ff;#8338ec" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#00e5ff" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#00e5ff;#8338ec;#d4af37;#00e5ff" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Text Neon Gradient -->
+    <linearGradient id="textNeon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00e5ff">
+        <animate attributeName="stop-color" values="#00e5ff;#67e8f9;#d4af37;#00e5ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#ffffff" />
+      <stop offset="100%" stop-color="#00e5ff">
+        <animate attributeName="stop-color" values="#00e5ff;#d4af37;#67e8f9;#00e5ff" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Circuit Grid Pattern -->
+    <pattern id="cyberGrid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00e5ff" stroke-width="0.5" stroke-opacity="0.07" />
+      <circle cx="30" cy="0" r="1" fill="#00e5ff" fill-opacity="0.15" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-weight: 900;
+      font-size: 50px;
+      letter-spacing: 5px;
+      text-transform: uppercase;
+    }
+    .subtitle-text {
+      font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+      font-weight: 600;
+      font-size: 15px;
+      letter-spacing: 3px;
+      fill: #94a3b8;
+      text-transform: uppercase;
+    }
+    .tagline-text {
+      font-family: 'Fira Code', 'Courier New', monospace;
+      font-weight: 500;
+      font-size: 13px;
+      letter-spacing: 1.5px;
+      fill: #00e5ff;
+    }
+    .dot-pulse {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(0.98); }
+      50% { opacity: 1; transform: scale(1.02); }
+    }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="946" height="236" rx="16" fill="url(#bgGradient)" stroke="url(#cyberBorder)" stroke-width="1.8" />
+
+  <!-- Grid Overlay -->
+  <rect x="2" y="2" width="946" height="236" rx="16" fill="url(#cyberGrid)" />
+
+  <!-- Window Header / Terminal Controls -->
+  <circle cx="28" cy="24" r="5" fill="#ef4444" opacity="0.8" />
+  <circle cx="44" cy="24" r="5" fill="#eab308" opacity="0.8" />
+  <circle cx="60" cy="24" r="5" fill="#22c55e" opacity="0.8" />
+
+  <text x="475" y="27" text-anchor="middle" font-family="'Fira Code', monospace" font-size="11" fill="#64748b" letter-spacing="2">
+    ARCHITECTURAL CORE // SVR-NODE // DARCKROVERT.LABS
+  </text>
+
+  <!-- Corner Brackets (Cyber Accents) -->
+  <path d="M 18 45 L 18 35 L 28 35" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.5" />
+  <path d="M 932 45 L 932 35 L 922 35" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.5" />
+  <path d="M 18 195 L 18 205 L 28 205" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.5" />
+  <path d="M 932 195 L 932 205 L 922 205" fill="none" stroke="#00e5ff" stroke-width="1.5" opacity="0.5" />
+
+  <!-- Decorative Circuit Traces -->
+  <path d="M 100 115 L 180 115 L 210 135" fill="none" stroke="#00e5ff" stroke-width="1" opacity="0.2">
+    <animate attributeName="stroke-dasharray" values="0,150; 150,0; 0,150" dur="4s" repeatCount="indefinite" />
+  </path>
+  <circle cx="100" cy="115" r="2.5" fill="#00e5ff" opacity="0.4" />
+
+  <path d="M 850 115 L 770 115 L 740 95" fill="none" stroke="#8338ec" stroke-width="1" opacity="0.2">
+    <animate attributeName="stroke-dasharray" values="0,150; 150,0; 0,150" dur="4s" repeatCount="indefinite" />
+  </path>
+  <circle cx="850" cy="115" r="2.5" fill="#8338ec" opacity="0.4" />
+
+  <!-- Lightning Moniker Icon -->
+  <g transform="translate(475, 75)" filter="url(#subtleGlow)">
+    <!-- Electric Icon SVG Centered -->
+    <path d="M -7 -14 L 5 -14 L -2 -3 L 7 -3 L -5 14 L -1 1 L -8 1 Z" fill="#d4af37">
+      <animate attributeName="fill" values="#d4af37;#00e5ff;#ffffff;#d4af37" dur="5s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Main Hero Title -->
+  <text x="475" y="125" text-anchor="middle" class="title-text" fill="url(#textNeon)" filter="url(#subtleGlow)">
+    DARCKROVERT
+  </text>
+
+  <!-- Subtitle -->
+  <text x="475" y="160" text-anchor="middle" class="subtitle-text">
+    SYSTEMS ARCHITECT • GAME ENGINE ENGINEER • PRIVACY BUILDER
+  </text>
+
+  <!-- Live Status Tagline -->
+  <g transform="translate(475, 195)">
+    <!-- Status Beacon Dot -->
+    <circle cx="-240" cy="-4" r="4" fill="#00e5ff">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+      <animate attributeName="r" values="4;5.5;4" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="-225" y="0" text-anchor="start" class="tagline-text">
+      C++20 / RUST // ZERO-TELEMETRY ENGINE // LOCAL NEURAL RUNTIMES
+    </text>
+  </g>
+</svg>

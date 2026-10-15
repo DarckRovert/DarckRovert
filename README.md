@@ -1,17 +1,15 @@
 <div align="center">
 
-<a href="https://github.com/DarckRovert">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b12,50:0d1d36,100:00e5ff&height=200&section=header&text=%E2%9A%A1%20DarckRovert&fontSize=62&fontColor=00e5ff&animation=fadeIn&fontAlignY=38&desc=Systems%20Architect%20%E2%80%A2%20Game%20Engine%20Engineer%20%E2%80%A2%20Open%20Source%20%26%20Privacy%20Builder&descFontSize=19&descColor=e2e8f0&descAlignY=64" width="100%" alt="DarckRovert Animated Header" />
-</a>
+<img src="./assets/header.svg" width="100%" alt="DarckRovert Header" />
 
 <p align="center">
   <a href="https://github.com/DarckRovert">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2400&pause=1200&color=00E5FF&center=true&vCenter=true&multiline=true&width=750&height=180&lines=Systems+Architect+%26+C%2B%2B+%2F+Rust+Engineer;Creator+of+JainaCore+(Next-Gen+MMORPG+Engine);Architect+of+RED+(Decentralized+Privacy+Mesh);Pioneering+Neural+LoreBots+%26+3D+Spatial+Audio;Zero-Telemetry+%26+Digital+Sovereignty+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=00E5FF&center=true&vCenter=true&width=780&height=50&lines=Systems+Architect+%26+C%2B%2B+%2F+Rust+Engineer;Creator+of+JainaCore+(Next-Gen+MMORPG+Engine);Architect+of+RED+(Decentralized+Privacy+Mesh);Pioneering+Neural+LoreBots+%26+3D+Spatial+Audio;Zero-Telemetry+%26+Digital+Sovereignty+Builder" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/DarckRovert"><img src="https://komarev.com/ghpvc/?username=DarckRovert&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+  <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20ARCHITECT-00e5ff?style=for-the-badge&logo=spacex&logoColor=white" alt="Status" /></a>
   <a href="https://github.com/DarckRovert?tab=followers"><img src="https://img.shields.io/github/followers/DarckRovert?label=FOLLOWERS&style=for-the-badge&color=d4af37&logo=github" alt="Followers" /></a>
   <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-54%20PUBLIC-9d4edd?style=for-the-badge&logo=git" alt="Repositories" /></a>
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/LICENSES-GPL%20%2F%20MIT-brightgreen?style=for-the-badge" alt="Licenses" /></a>
@@ -166,9 +164,7 @@ AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de Frame
 
 <br/>
 
-<a href="https://github.com/DarckRovert">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0e1e38,100:080b12&height=120&section=footer" width="100%" alt="Footer Wave" />
-</a>
+<img src="./assets/footer.svg" width="100%" alt="DarckRovert Footer" />
 
 <p align="center">
   <sub>Construido con pasión, precisión arquitectónica y compromiso open-source por <strong>DarckRovert</strong>.</sub>
