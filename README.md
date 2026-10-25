@@ -13,7 +13,7 @@
   <a href="https://github.com/DarckRovert?tab=followers"><img src="https://img.shields.io/github/followers/DarckRovert?label=FOLLOWERS&style=for-the-badge&color=d4af37&logo=github" alt="Followers" /></a>
   <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-54%20PUBLIC-9d4edd?style=for-the-badge&logo=git" alt="Repositories" /></a>
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/LICENSES-GPL%20%2F%20MIT-brightgreen?style=for-the-badge" alt="Licenses" /></a>
-  <a href="https://discord.gg/YFpGGy8RGR"><img src="https://img.shields.io/badge/COMMUNITY-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/cXxMuRJrfy"><img src="https://img.shields.io/badge/COMMUNITY-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
@@ -160,7 +160,7 @@ AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de Frame
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarckRovert)
 [![Project JAIna Web](https://img.shields.io/badge/Portal-Project_JAIna-00ccff?style=for-the-badge&logo=firefox&logoColor=white)](https://darckrovert.github.io/ProjectJaina_Web/)
-[![Discord](https://img.shields.io/badge/Discord-Project_Jaina-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YFpGGy8RGR)
+[![Discord](https://img.shields.io/badge/Discord-Project_Jaina-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cXxMuRJrfy)
 
 <br/>
 
