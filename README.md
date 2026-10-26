@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20ARCHITECT-00e5ff?style=for-the-badge&logo=spacex&logoColor=white" alt="Status" /></a>
+  <a href="https://github.com/sponsors/DarckRovert"><img src="https://img.shields.io/badge/SPONSOR-GITHUB%20SPONSORS-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
   <a href="https://github.com/DarckRovert?tab=followers"><img src="https://img.shields.io/github/followers/DarckRovert?label=FOLLOWERS&style=for-the-badge&color=d4af37&logo=github" alt="Followers" /></a>
   <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-54%20PUBLIC-9d4edd?style=for-the-badge&logo=git" alt="Repositories" /></a>
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/LICENSES-GPL%20%2F%20MIT-brightgreen?style=for-the-badge" alt="Licenses" /></a>
@@ -139,6 +140,36 @@ AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de Frame
     </td>
   </tr>
 </table>
+
+</div>
+
+---
+
+## 💖 Apoya el Ecosistema Abierto / Sponsors & Donations
+
+> *"Construir un ecosistema de emulación masivo, con modelos neuronales locales, audio espacial 3D y motores gráficos modernos bajo una filosofía radical de Cero Telemetría requiere servidores dedicados, hardware de testeo y cientos de horas de ingeniería."*
+
+Si el código de **Project JAIna**, **JainaCore**, nuestros 18 AddOns libres o mis proyectos de investigación te han sido de utilidad, considera convertirte en patrocinador para garantizar la sostenibilidad y evolución continua de este ecosistema:
+
+<div align="center">
+
+<a href="https://github.com/sponsors/DarckRovert">
+  <img src="https://img.shields.io/badge/GitHub_Sponsors-Patrocinar_Mensualmente-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.paypal.com/donate/?hosted_button_id=L69ANPSR8BJDU">
+  <img src="https://img.shields.io/badge/PayPal-Donación_Directa-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate" />
+</a>
+
+<br/><br/>
+
+| Nivel de Patrocinio | Aporte | Beneficio Principal |
+| :--- | :--- | :--- |
+| **Iniciado de Dalaran** | `$3 / mes` | Insignia oficial de Sponsor en GitHub + Rol `@Iniciado de Dalaran` en Discord. |
+| **Guardián del Kirin Tor** | `$5 / mes` | Rol exclusivo en Discord + Acceso al canal privado `#sponsors-lounge`. |
+| **Archimago de la Ciudadela** | `$10 / mes` | Nombre en los créditos de [Project Jaina Web](https://darckrovert.github.io/ProjectJaina_Web/) + Acceso anticipado a builds. |
+| **Campeón de Theramore** | `$25 / mes` | Mención destacada en el lanzador oficial + Prioridad en atención técnica. |
+| **Consejo de los Seis** | `$50 / mes` | Logo / Banner de patrocinador destacado en la web oficial + Canal directo de arquitectura. |
 
 </div>
 
