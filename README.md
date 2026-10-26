@@ -157,7 +157,7 @@ Si el código de **Project JAIna**, **JainaCore**, nuestros 18 AddOns libres o m
   <img src="https://img.shields.io/badge/GitHub_Sponsors-Patrocinar_Mensualmente-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="GitHub Sponsors" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.paypal.com/donate/?hosted_button_id=L69ANPSR8BJDU">
+<a href="https://www.paypal.com/donate/?business=darckrovert@gmail.com&currency_code=USD&item_name=Project+JAIna">
   <img src="https://img.shields.io/badge/PayPal-Donación_Directa-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate" />
 </a>
 
