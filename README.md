@@ -12,7 +12,7 @@
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20ARCHITECT-00e5ff?style=for-the-badge&logo=spacex&logoColor=white" alt="Status" /></a>
   <a href="https://github.com/sponsors/DarckRovert"><img src="https://img.shields.io/badge/SPONSOR-GITHUB%20SPONSORS-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
   <a href="https://github.com/DarckRovert?tab=followers"><img src="https://img.shields.io/github/followers/DarckRovert?label=FOLLOWERS&style=for-the-badge&color=d4af37&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-54%20PUBLIC-9d4edd?style=for-the-badge&logo=git" alt="Repositories" /></a>
+  <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-57%20PUBLIC-9d4edd?style=for-the-badge&logo=git" alt="Repositories" /></a>
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/LICENSES-GPL%20%2F%20MIT-brightgreen?style=for-the-badge" alt="Licenses" /></a>
   <a href="https://discord.gg/cXxMuRJrfy"><img src="https://img.shields.io/badge/COMMUNITY-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
@@ -23,13 +23,14 @@
 
 ## 🧭 Sobre mí / About Me
 
-¡Hola! Soy **DarckRovert** (conocido en comunidades de emulación y desarrollo como *Elnazzareno*).  
-Soy un arquitecto de software e ingeniero de sistemas enfocado en el desarrollo de motores de videojuegos de alto rendimiento, protocolos de privacidad descentralizados y la integración de modelos neuronales locales en entornos de ejecución en tiempo real.
+¡Hola! Soy **DarckRovert** (conocido en comunidades de emulación y desarrollo de sistemas como *Elnazzareno*).  
+Soy un **Arquitecto de Sistemas e Ingeniero de Software Staff (L9)** enfocado en la ingeniería de motores de videojuegos de alta concurrencia, protocolos criptográficos P2P descentralizados y la integración de inteligencia artificial generativa local en tiempo real.
 
-### Principios Fundamentales:
-- 🛡️ **Cero Telemetría y Privacidad Radical:** El software debe servir exclusivamente al usuario. Rechazo frontal a rastreadores, recopilación de telemetría y vigilancia masiva.
-- ⚡ **Rendimiento Nativo de Bajo Nivel:** C++ moderno (C++17/20), Rust con memoria segura, mitigación de colisiones de caché y disciplina estricta de memoria virtual en 32/64 bits.
-- 🔓 **Código Abierto y Soberanía Tecnológica:** Democratización de herramientas avanzadas para que comunidades y usuarios puedan comunicarse, jugar e investigar con total libertad.
+### Principios Fundamentales de Ingeniería:
+- 🛡️ **Cero Telemetría y Privacidad Radical:** El software pertenece y sirve exclusivamente al usuario. Rechazo frontal a telemetrías encubiertas, rastreadores y vigilancia corporativa.
+- ⚡ **Rendimiento Nativo de Bajo Nivel:** C++ moderno (C++17/C++20), Rust para memoria concurrente segura, mitigación de colisiones de caché L1/L2/L3 y disciplina estricta de memoria virtual de 32 y 64 bits.
+- 🧠 **IA Local Soberana:** Inferencia de modelos de lenguaje grandes (LLMs locales) desacoplada en tiempo real sin dependencias de APIs en la nube.
+- 🔓 **Código Abierto y Soberanía Tecnológica:** Democratización de herramientas de emulación, suites de cliente y protocolos descentralizados para comunidades libres.
 
 ---
 
@@ -39,15 +40,15 @@ Soy un arquitecto de software e ingeniero de sistemas enfocado en el desarrollo 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,rust,c,python,lua,ts,js,nodejs,fastapi,mysql,git,linux,docker,bash,powershell,blender&theme=dark" alt="DarckRovert Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=cpp,rust,c,python,lua,ts,js,nodejs,fastapi,mysql,git,linux,docker,bash,powershell,githubactions&theme=dark" alt="DarckRovert Tech Stack Icons" />
   </a>
 </p>
 
 ### Lenguajes de Sistemas & Arquitectura
 ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust_2021-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua_5.2-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua_5.1%20%2F%20ALE-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -58,41 +59,47 @@ Soy un arquitecto de software e ingeniero de sistemas enfocado en el desarrollo 
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Persistencia, Infraestructura & DevOps
+### Persistencia, Infraestructura, IA & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL_8.4_LTS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git_SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![LLM](https://img.shields.io/badge/Local_LLM_Inference-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Local LLMs](https://img.shields.io/badge/Local_LLM_Inference-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![Git](https://img.shields.io/badge/Git_SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Proyectos Insignia / Featured Projects
+## 🚀 Proyectos Insignia / Flagship Projects
 
 <div align="center">
 
 | [RED](https://github.com/DarckRovert/RED) | [mod-playerbots](https://github.com/DarckRovert/mod-playerbots) |
 | :---: | :---: |
 | <a href="https://github.com/DarckRovert/RED"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=RED&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/mod-playerbots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-playerbots&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
-| **Mensajería P2P Descentralizada en Rust** | **IA Táctica AAA y Multithreading para Bots** |
+| **Mensajería P2P Descentralizada Zero-Knowledge (Rust)** | **IA Táctica AAA y Multithreading para Bots (C++)** |
 
 | [mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter) | [ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice) |
 | :---: | :---: |
 | <a href="https://github.com/DarckRovert/mod-llm-chatter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-llm-chatter&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/ProjectJaina_Voice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=ProjectJaina_Voice&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
-| **Inferencia Conversacional Local (LLM) en Tiempo Real** | **Audio Espacial 3D WebRTC In-Game** |
+| **Inferencia Conversacional Local (LLM) en Tiempo Real** | **Audio Espacial 3D WebRTC In-Game (HRTF)** |
 
 </div>
 
-### 🌟 Ecosistema JainaCore — Motor MMORPG de Nueva Generación
-> **El primer ecosistema de servidor World of Warcraft (WotLK 3.3.5a) con LoreBots Neuronales, IA Táctica AAA y Voz Proximidad 3D Espacial nativa.**
+---
 
-- **LoreBots Neuronales:** Inferencia conversacional en tiempo real (LM Studio / Ollama) desacoplada mediante colas asíncronas no bloqueantes en MySQL, memoria de contexto por jugador y habla reactiva por proximidad vía [`mod-llm-chatter`](https://github.com/DarckRovert/mod-llm-chatter).
-- **IA Táctica AAA para Bots:** Latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), selección de utilidad multihilo y blindaje de equipamiento garantizado vía [`mod-playerbots`](https://github.com/DarckRovert/mod-playerbots).
-- **Audio Espacial WebRTC 3D:** Puerta de enlace de audio posicional con paneo estéreo HRTF y atenuación logarítmica ($\le 25$ yd) implementada en [`ProjectJaina_Voice`](https://github.com/DarckRovert/ProjectJaina_Voice).
-- **Módulos Core Adicionales:** [`mod-ale`](https://github.com/DarckRovert/mod-ale) (Eluna Lua Engine extendido) y [`mod-anticheat`](https://github.com/DarckRovert/mod-anticheat) (vigilancia de movimiento pasivo).
-- 🌐 [Visita el Portal Oficial de Project Jaina](https://darckrovert.github.io/ProjectJaina_Web/)
+### 🌟 Ecosistema JainaCore — Servidor MMORPG de Nueva Generación
+> **El primer ecosistema de servidor World of Warcraft (WotLK 3.3.5a) con LoreBots Neuronales, IA Táctica AAA y Audio Espacial 3D Nativo.**
+
+* **[JainaCore_Server](https://github.com/DarckRovert/JainaCore_Server):** Núcleo C++ multihilo de alto rendimiento con optimizaciones de concurrencia, mitigación anti-split-brain y arquitectura de reinos híbridos Vanilla/WotLK.
+* **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots):** Simulación de jugadores con latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), selección de utilidad multihilo y blindaje de equipamiento garantizado.
+* **[mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter):** Inferencia conversacional en tiempo real (LM Studio / Ollama) desacoplada mediante colas asíncronas no bloqueantes en MySQL, memoria de contexto por jugador y habla reactiva por proximidad.
+* **[JainaCore_LuaScripts](https://github.com/DarckRovert/JainaCore_LuaScripts):** Suite completa de módulos de gameplay Eluna (Baluartes de Hermandad, Pase de Batalla estacional, Tienda visual transaccional, Ecosistema vivo autónomo y sincronización de voz).
+* **[mod-ale](https://github.com/DarckRovert/mod-ale):** Motor de scripting Eluna extendido con bindings C++ avanzados para control táctico de bots y eventos globales de mundo.
+* **[mod-anticheat](https://github.com/DarckRovert/mod-anticheat):** Sistema de vigilancia cinemática y detección pasiva de anomalías de movimiento.
+* **[ProjectJaina_Lab](https://github.com/DarckRovert/ProjectJaina_Lab):** Infraestructura DevOps, señalización WebRTC, orquestador de microservicios y API de actualización de cliente.
+* 🌐 **[Portal Oficial de Project Jaina](https://darckrovert.github.io/ProjectJaina_Web/)**
 
 ---
 
@@ -101,23 +108,36 @@ Soy un arquitecto de software e ingeniero de sistemas enfocado en el desarrollo 
 
 - **Topología Descentralizada:** Comunicación cifrada directa sin servidores centrales, bases de datos intermediarias ni recolección de metadatos.
 - **Soberanía Criptográfica:** Cifrado autenticado de extremo a extremo diseñado para proteger la libertad de expresión y la privacidad individual.
-- **Resistencia a la Censura:** Canal seguro y transparente que opera sin intermediarios comerciales ni vigilancia corporativa.
+- **Resistencia a la Censura:** Canal seguro, transparente y portable que opera sin intermediarios comerciales ni vigilancia corporativa.
 
 ---
 
-### 🎮 Suite de AddOns & Ingeniería de Cliente (26+ Monorepositorios Oficiales)
-AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de FrameXML y optimización de renderizado DirectX 9:
+### 🎮 Suite Completa de AddOns para WoW 3.3.5a (21 Repositorios Oficiales)
+AddOns de alto rendimiento para el cliente WotLK 3.3.5a con cero advertencias de FrameXML, arquitectura modular y compatibilidad DirectX 9:
 
-| AddOn Suite | Especialidad / Rol Arquitectónico | Repositorio |
-| :--- | :--- | :--- |
-| **[ProjectJaina_Companion](https://github.com/DarckRovert/ProjectJaina_Companion)** | Hub social ligero, barra táctica de combate y formaciones | [![GitHub](https://img.shields.io/badge/Repo-Companion-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Companion) |
-| **[ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice)** | Sincronización in-game para audio espacial 3D WebRTC | [![GitHub](https://img.shields.io/badge/Repo-Voice3D-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Voice) |
-| **[ProjectJaina_BattlePass](https://github.com/DarckRovert/ProjectJaina_BattlePass)** | Pase de Batalla estacional, misiones dinámicas y entrega atómica | [![GitHub](https://img.shields.io/badge/Repo-BattlePass-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_BattlePass) |
-| **[ProjectJaina_MultiBot](https://github.com/DarckRovert/ProjectJaina_MultiBot)** | GUI integral para órdenes estratégicas, roles y reclutamiento de bots | [![GitHub](https://img.shields.io/badge/Repo-MultiBot-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_MultiBot) |
-| **[ProjectJaina_RaidSuite](https://github.com/DarckRovert/ProjectJaina_RaidSuite)** | Asistente de bandas multiclase y puente táctico | [![GitHub](https://img.shields.io/badge/Repo-RaidSuite-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_RaidSuite) |
-| **[ProjectJaina_AdminTools](https://github.com/DarckRovert/ProjectJaina_AdminTools)** | Panel administrativo GM, control de baluartes y eventos de mundo | [![GitHub](https://img.shields.io/badge/Repo-AdminTools-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_AdminTools) |
-| **[ProjectJaina_DragonflightUI](https://github.com/DarckRovert/ProjectJaina_DragonflightUI)** | Overhaul visual moderno 10.x calibrado para cliente clásico | [![GitHub](https://img.shields.io/badge/Repo-DragonflightUI-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_DragonflightUI) |
-| **[ProjectJaina_Graphics](https://github.com/DarckRovert/ProjectJaina_Graphics)** | Calibración de renderizado y estabilidad de memoria D3D9 de 32 bits | [![GitHub](https://img.shields.io/badge/Repo-Graphics-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Graphics) |
+| Categoría | AddOn Suite | Especialidad / Rol Arquitectónico | Enlace |
+| :--- | :--- | :--- | :--- |
+| **Social & Audio** | **[ProjectJaina_Companion](https://github.com/DarckRovert/ProjectJaina_Companion)** | Hub social ligero, barra táctica de combate y formaciones | [![GitHub](https://img.shields.io/badge/Repo-Companion-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Companion) |
+| | **[ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice)** | Sincronización in-game para audio espacial 3D WebRTC | [![GitHub](https://img.shields.io/badge/Repo-Voice3D-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Voice) |
+| | **[ProjectJaina_Radio](https://github.com/DarckRovert/ProjectJaina_Radio)** | Suite de radio y entretenimiento multimedia in-game vía streaming | [![GitHub](https://img.shields.io/badge/Repo-Radio-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Radio) |
+| | **[ProjectJaina_Polyglot](https://github.com/DarckRovert/ProjectJaina_Polyglot)** | Traducción dinámica neuronal multilenguaje de canales de chat | [![GitHub](https://img.shields.io/badge/Repo-Polyglot-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Polyglot) |
+| **Gameplay & IA** | **[ProjectJaina_MultiBot](https://github.com/DarckRovert/ProjectJaina_MultiBot)** | GUI integral para órdenes estratégicas, roles y reclutamiento de bots | [![GitHub](https://img.shields.io/badge/Repo-MultiBot-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_MultiBot) |
+| | **[ProjectJaina_BattlePass](https://github.com/DarckRovert/ProjectJaina_BattlePass)** | Pase de Batalla estacional, misiones dinámicas y entrega atómica | [![GitHub](https://img.shields.io/badge/Repo-BattlePass-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_BattlePass) |
+| | **[ProjectJaina_GameModes](https://github.com/DarckRovert/ProjectJaina_GameModes)** | Modos de juego Hardcore, Iron Man y progresión personalizada | [![GitHub](https://img.shields.io/badge/Repo-GameModes-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_GameModes) |
+| | **[ProjectJaina_LoreHUD](https://github.com/DarckRovert/ProjectJaina_LoreHUD)** | Overlay cinemático de diálogos, inmersión y narrativa de bots | [![GitHub](https://img.shields.io/badge/Repo-LoreHUD-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_LoreHUD) |
+| **Economía & Visuales** | **[ProjectJaina_Store](https://github.com/DarckRovert/ProjectJaina_Store)** | Tienda visual transaccional y marketplace integrado | [![GitHub](https://img.shields.io/badge/Repo-Store-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Store) |
+| | **[ProjectJaina_Wardrobe](https://github.com/DarckRovert/ProjectJaina_Wardrobe)** | Sistema integral de transfiguración y armario cosmético | [![GitHub](https://img.shields.io/badge/Repo-Wardrobe-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Wardrobe) |
+| | **[ProjectJaina_VisualShop](https://github.com/DarckRovert/ProjectJaina_VisualShop)** | Previsualizador 3D de modelos, auras y equipamiento | [![GitHub](https://img.shields.io/badge/Repo-VisualShop-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_VisualShop) |
+| | **[ProjectJaina_DragonflightUI](https://github.com/DarckRovert/ProjectJaina_DragonflightUI)** | Overhaul visual moderno estilo 10.x calibrado para cliente clásico | [![GitHub](https://img.shields.io/badge/Repo-DragonflightUI-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_DragonflightUI) |
+| | **[ProjectJaina_Graphics](https://github.com/DarckRovert/ProjectJaina_Graphics)** | Calibración de renderizado y estabilidad de memoria D3D9 de 32 bits | [![GitHub](https://img.shields.io/badge/Repo-Graphics-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Graphics) |
+| | **[ProjectJaina_AbbreviatedStatus](https://github.com/DarckRovert/ProjectJaina_AbbreviatedStatus)** | Formateo numérico abreviado limpio de vida, maná y estado | [![GitHub](https://img.shields.io/badge/Repo-Status-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_AbbreviatedStatus) |
+| **Bandas & Combate** | **[ProjectJaina_RaidSuite](https://github.com/DarckRovert/ProjectJaina_RaidSuite)** | Asistente integral de bandas multiclase y puente táctico | [![GitHub](https://img.shields.io/badge/Repo-RaidSuite-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_RaidSuite) |
+| | **[ProjectJaina_DBM](https://github.com/DarckRovert/ProjectJaina_DBM)** | Suite de alertas tácticas de encuentros calibrada para Project Jaina | [![GitHub](https://img.shields.io/badge/Repo-DBM-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_DBM) |
+| | **[ProjectJaina_GearScore](https://github.com/DarckRovert/ProjectJaina_GearScore)** | Cálculo ligero y optimizado de nivel de equipamiento | [![GitHub](https://img.shields.io/badge/Repo-GearScore-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_GearScore) |
+| | **[ProjectJaina_Talented](https://github.com/DarckRovert/ProjectJaina_Talented)** | Gestor avanzado de plantillas de talentos y asignación rápida | [![GitHub](https://img.shields.io/badge/Repo-Talented-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Talented) |
+| **GM, QA & Telemetría** | **[ProjectJaina_AdminTools](https://github.com/DarckRovert/ProjectJaina_AdminTools)** | Panel administrativo GM, control de baluartes y eventos de mundo | [![GitHub](https://img.shields.io/badge/Repo-AdminTools-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_AdminTools) |
+| | **[ProjectJaina_PrideTrace](https://github.com/DarckRovert/ProjectJaina_PrideTrace)** | Suite de pruebas de control de calidad y telemetría de red | [![GitHub](https://img.shields.io/badge/Repo-PrideTrace-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_PrideTrace) |
+| | **[ProjectJaina_Carbonite](https://github.com/DarckRovert/ProjectJaina_Carbonite)** | Sistema cartográfico vectorial y navegación táctica de mundo | [![GitHub](https://img.shields.io/badge/Repo-Carbonite-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Carbonite) |
 
 ---
 
@@ -147,9 +167,9 @@ AddOns de alto rendimiento para el cliente 3.3.5a con cero advertencias de Frame
 
 ## 💖 Apoya el Ecosistema Abierto / Sponsors & Donations
 
-> *"Construir un ecosistema de emulación masivo, con modelos neuronales locales, audio espacial 3D y motores gráficos modernos bajo una filosofía radical de Cero Telemetría requiere servidores dedicados, hardware de testeo y cientos de horas de ingeniería."*
+> *"Construir un ecosistema de emulación masivo con modelos neuronales locales, audio espacial 3D y suites de cliente optimizadas bajo una filosofía radical de Cero Telemetría requiere infraestructura dedicada, hardware de pruebas de alta gama y cientos de horas de ingeniería de bajo nivel."*
 
-Si el código de **Project JAIna**, **JainaCore**, nuestros 18 AddOns libres o mis proyectos de investigación te han sido de utilidad, considera convertirte en patrocinador para garantizar la sostenibilidad y evolución continua de este ecosistema:
+Si el código de **Project JAIna**, **JainaCore**, nuestros 21 AddOns libres o mis proyectos de investigación criptográfica te han sido de utilidad, considera convertirte en patrocinador para garantizar la sostenibilidad y evolución continua de este ecosistema:
 
 <div align="center">
 
@@ -168,8 +188,8 @@ Si el código de **Project JAIna**, **JainaCore**, nuestros 18 AddOns libres o m
 | **Iniciado de Dalaran** | `$3 / mes` | Insignia oficial de Sponsor en GitHub + Rol `@Iniciado de Dalaran` en Discord. |
 | **Guardián del Kirin Tor** | `$5 / mes` | Rol exclusivo en Discord + Acceso al canal privado `#sponsors-lounge`. |
 | **Archimago de la Ciudadela** | `$10 / mes` | Nombre en los créditos de [Project Jaina Web](https://darckrovert.github.io/ProjectJaina_Web/) + Acceso anticipado a builds. |
-| **Campeón de Theramore** | `$25 / mes` | Mención destacada en el lanzador oficial + Prioridad en atención técnica. |
-| **Consejo de los Seis** | `$50 / mes` | Logo / Banner de patrocinador destacado en la web oficial + Canal directo de arquitectura. |
+| **Campeón de Theramore** | `$25 / mes` | Mención destacada en el lanzador oficial + Prioridad en atención técnica de arquitectura. |
+| **Consejo de los Seis** | `$50 / mes` | Logo / Banner de patrocinador destacado en la web oficial + Canal directo de arquitectura con Darck. |
 
 </div>
 
@@ -180,14 +200,14 @@ Si el código de **Project JAIna**, **JainaCore**, nuestros 18 AddOns libres o m
 > *"El código debe ser resiliente, transparente y construido para las personas. La tecnología debe potenciar la libertad y la creatividad humana, nunca restringirla ni mercantilizarla."*
 
 - **Privacidad Ante Todo:** Cero telemetría encubierta, cero analíticas intrusivas, cero monetización de datos privados.
-- **Empirismo y Excelencia:** Cada error se rastrea hasta su causa raíz absoluta en ensamblador o código fuente; cada cambio se valida en tiempo de ejecución.
+- **Empirismo y Excelencia:** Cada error se rastrea hasta su causa raíz absoluta en código fuente o ensamblador; cada cambio se valida en tiempo de ejecución.
 - **Comunidad y Transparencia:** Documentación técnica exhaustiva, registros de cambios fidedignos y proyectos listos para producción para otros desarrolladores.
 
 ---
 
 <div align="center">
 
-### 🤝 Conexión y Ecosistema
+### 🤝 Conexión y Redes Oficiales
 
 [![GitHub](https://img.shields.io/badge/GitHub-DarckRovert-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarckRovert)
 [![Project JAIna Web](https://img.shields.io/badge/Portal-Project_JAIna-00ccff?style=for-the-badge&logo=firefox&logoColor=white)](https://darckrovert.github.io/ProjectJaina_Web/)
