@@ -74,15 +74,12 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 
 <div align="center">
 
-| [RED](https://github.com/DarckRovert/RED) | [mod-playerbots](https://github.com/DarckRovert/mod-playerbots) |
-| :---: | :---: |
-| <a href="https://github.com/DarckRovert/RED"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=RED&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/mod-playerbots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-playerbots&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
-| **Mensajería P2P Descentralizada Zero-Knowledge (Rust)** | **IA Táctica AAA y Multithreading para Bots (C++)** |
-
-| [mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter) | [ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice) |
-| :---: | :---: |
-| <a href="https://github.com/DarckRovert/mod-llm-chatter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=mod-llm-chatter&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> | <a href="https://github.com/DarckRovert/ProjectJaina_Voice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=DarckRovert&repo=ProjectJaina_Voice&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" width="370" /></a> |
-| **Inferencia Conversacional Local (LLM) en Tiempo Real** | **Audio Espacial 3D WebRTC In-Game (HRTF)** |
+| Proyecto Insignia | Rol Arquitectónico & Especialidad | Stack & Enfoque | Acceso Oficial |
+| :--- | :--- | :--- | :--- |
+| **[RED](https://github.com/DarckRovert/RED)** | **Mensajería P2P Descentralizada Zero-Knowledge**<br/>Protocolo de comunicación cifrada de extremo a extremo sin servidores centrales, bases de datos intermediarias ni recolección de metadatos. | ![Rust](https://img.shields.io/badge/Rust_2021-000000?style=flat-square&logo=rust&logoColor=white) ![ZK](https://img.shields.io/badge/Privacy-Zero--Knowledge-00e5ff?style=flat-square) ![License](https://img.shields.io/badge/License-GPLv3-brightgreen?style=flat-square) | [![GitHub](https://img.shields.io/badge/Ver_Repositorio-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DarckRovert/RED) |
+| **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots)** | **IA Táctica AAA & Multithreading para Bots (C++)**<br/>Simulación de combate humano calibrada (220–360 ms de latencia perceptual), evasión proactiva de áreas de daño y selección multihilo. | ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![AI](https://img.shields.io/badge/Tactical_AI-AAA-d4af37?style=flat-square) ![Thread](https://img.shields.io/badge/Concurrency-Multithread-9d4edd?style=flat-square) | [![GitHub](https://img.shields.io/badge/Ver_Repositorio-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DarckRovert/mod-playerbots) |
+| **[mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter)** | **Inferencia Conversacional Local (LLM) en Tiempo Real**<br/>Integración de modelos neuronales locales (LM Studio / Ollama) desacoplados mediante colas asíncronas no bloqueantes en MySQL y habla contextual. | ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/Local_LLM-Inference-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Async_Queues-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/Ver_Repositorio-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DarckRovert/mod-llm-chatter) |
+| **[ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice)** | **Audio Espacial 3D WebRTC In-Game (HRTF)**<br/>Gateway posicional en tiempo real con paneo estéreo HRTF y atenuación logarítmica de distancia para World of Warcraft 3.3.5a. | ![WebRTC](https://img.shields.io/badge/WebRTC_3D_Audio-333333?style=flat-square&logo=webrtc&logoColor=white) ![Spatial](https://img.shields.io/badge/3D_Audio-HRTF-00e5ff?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-Signaling-009688?style=flat-square&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/Ver_Repositorio-00e5ff?style=for-the-badge&logo=github&logoColor=black)](https://github.com/DarckRovert/ProjectJaina_Voice) |
 
 </div>
 
@@ -146,21 +143,16 @@ AddOns de alto rendimiento para el cliente WotLK 3.3.5a con cero advertencias de
 
 <div align="center">
 
-<table border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=DarckRovert&show_icons=true&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&icon_color=d4af37&text_color=e2e8f0" alt="Estadísticas de DarckRovert en GitHub" width="100%" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarckRovert&layout=compact&theme=radical&hide_border=true&bg_color=080b12&title_color=00e5ff&text_color=e2e8f0" alt="Lenguajes Principales" width="100%" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=DarckRovert&theme=radical&hide_border=true&background=080b12&ring=00e5ff&fire=d4af37&currStreakLabel=00e5ff" alt="Racha de GitHub" width="85%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=DarckRovert&theme=radical&hide_border=true&background=080b12&ring=00e5ff&fire=d4af37&currStreakLabel=00e5ff" alt="Racha de GitHub" width="85%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositorios_Publicos-57-00e5ff?style=for-the-badge&logo=github&logoColor=white" alt="Repos" />
+  <img src="https://img.shields.io/badge/Seguidores-58+-d4af37?style=for-the-badge&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/badge/Licencias-GPL%20%2F%20MIT-brightgreen?style=for-the-badge" alt="Licenses" />
+  <img src="https://img.shields.io/badge/Enfoque-Sistemas%20%26%20Criptografia-9d4edd?style=for-the-badge" alt="Focus" />
+</p>
 
 </div>
 
@@ -179,7 +171,7 @@ Si el código de **Project JAIna**, **JainaCore**, nuestros 24 AddOns libres o m
 </a>
 &nbsp;&nbsp;
 <a href="https://paypal.me/darckrovert">
-  <img src="https://img.shields.io/badge/PayPal-Donación_Directa-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate" />
+  <img src="https://img.shields.io/badge/PayPal-Donacion_Directa-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal Donate" />
 </a>
 
 <br/><br/>
