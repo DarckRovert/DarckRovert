@@ -107,7 +107,7 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 
 ---
 
-### 🎮 Suite Completa de AddOns para WoW 3.3.5a (24 Repositorios Oficiales)
+### 🎮 Suite Completa de AddOns para WoW 3.3.5a (25 Repositorios Oficiales)
 AddOns de alto rendimiento para el cliente WotLK 3.3.5a con cero advertencias de FrameXML, arquitectura modular y calibración DirectX 9:
 
 | Categoría | AddOn Suite | Especialidad / Rol Arquitectónico | Enlace |
@@ -117,6 +117,7 @@ AddOns de alto rendimiento para el cliente WotLK 3.3.5a con cero advertencias de
 | | **[ProjectJaina_Radio](https://github.com/DarckRovert/ProjectJaina_Radio)** | Suite de streaming y radio multimedia in-game | [![GitHub](https://img.shields.io/badge/Repo-Radio-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Radio) |
 | | **[ProjectJaina_Polyglot](https://github.com/DarckRovert/ProjectJaina_Polyglot)** | Traducción dinámica neuronal multilenguaje de canales de chat | [![GitHub](https://img.shields.io/badge/Repo-Polyglot-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Polyglot) |
 | **Gameplay & IA** | **[ProjectJaina_MultiBot](https://github.com/DarckRovert/ProjectJaina_MultiBot)** | GUI táctica para órdenes estratégicas, roles y reclutamiento de bots | [![GitHub](https://img.shields.io/badge/Repo-MultiBot-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_MultiBot) |
+| | **[Chatter-Companion](https://github.com/DarckRovert/Chatter-Companion)** | Gestor in-game de personalidades, tono y memoria narrativa para bots con IA | [![GitHub](https://img.shields.io/badge/Repo-Chatter-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/Chatter-Companion) |
 | | **[ProjectJaina_BattlePass](https://github.com/DarckRovert/ProjectJaina_BattlePass)** | Pase de Batalla estacional, misiones dinámicas y recompensas | [![GitHub](https://img.shields.io/badge/Repo-BattlePass-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_BattlePass) |
 | | **[ProjectJaina_GameModes](https://github.com/DarckRovert/ProjectJaina_GameModes)** | Selector cinematográfico de modos de juego (Hardcore, Iron Man) | [![GitHub](https://img.shields.io/badge/Repo-GameModes-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_GameModes) |
 | | **[ProjectJaina_LoreHUD](https://github.com/DarckRovert/ProjectJaina_LoreHUD)** | Subtítulos cinematográficos y HUD inmersivo de narrativa de bots | [![GitHub](https://img.shields.io/badge/Repo-LoreHUD-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_LoreHUD) |
