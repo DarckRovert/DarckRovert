@@ -88,11 +88,11 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 ### 🌟 Ecosistema JainaCore — Servidor MMORPG de Nueva Generación
 > **El primer ecosistema de servidor World of Warcraft (WotLK 3.3.5a) con LoreBots Neuronales, IA Táctica AAA y Audio Espacial 3D Nativo.**
 
-* **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots):** Simulación táctica de jugadores en C++ con latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), selección de utilidad multihilo y blindaje de equipamiento garantizado.
+* **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots):** Simulación táctica de jugadores en C++ con latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), tope progresivo de talentos por expansión (31/41/51 pts), protección de Campeones Soberanos Persistentes y blindaje multihilo.
 * **[mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter):** Inferencia conversacional en tiempo real (LM Studio / Ollama) desacoplada mediante colas asíncronas no bloqueantes en MySQL, memoria de contexto por jugador y habla reactiva por proximidad.
 * **[mod-ale](https://github.com/DarckRovert/mod-ale):** Motor de scripting Eluna extendido con bindings nativos en C++ para control táctico de bots y orquestación de eventos de mundo.
 * **[mod-anticheat](https://github.com/DarckRovert/mod-anticheat):** Sistema de vigilancia cinemática y detección pasiva de anomalías de movimiento.
-* **JainaCore Engine & Server Infrastructure (Infraestructura de Núcleo Privado):** Arquitectura multi-nodo de alta concurrencia, prevención activa anti-split-brain y progresión híbrida aislada por reinos (Vanilla Cap 60 / WotLK Cap 80).
+* **JainaCore Engine & Server Infrastructure (Infraestructura de Núcleo Soberano):** Arquitectura C++20 multi-nodo de alta concurrencia (`Errors.log = 0B`), prevención activa anti-split-brain con candado de mantenimiento atómico y motor autónomo **Chrono-Master v2.0** con calendario progresivo oficial 2026–2028 (Vanilla Cap 60 → TBC Cap 70 → WotLK Fases T7–T10.5 → Cataclysm).
 * **Project Jaina Lab & DevOps Gateway (Infraestructura Privada):** Orquestador de microservicios, gateway de señalización WebRTC para audio 3D y distribución automatizada de parches.
 * 🌐 **[Portal Oficial de Project Jaina](https://darckrovert.github.io/ProjectJaina_Web/)** — Web oficial, documentación de reinos y centro de descargas.
 
