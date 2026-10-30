@@ -94,7 +94,7 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 * **[mod-anticheat](https://github.com/DarckRovert/mod-anticheat):** Sistema de vigilancia cinemática y detección pasiva de anomalías de movimiento.
 * **JainaCore Engine & Server Infrastructure (Infraestructura de Núcleo Soberano):** Arquitectura C++20 multi-nodo de alta concurrencia (`Errors.log = 0B`), prevención activa anti-split-brain con candado de mantenimiento atómico y motor autónomo **Chrono-Master v2.0** con calendario progresivo oficial 2026–2028 (Vanilla Cap 60 → TBC Cap 70 → WotLK Fases T7–T10.5 → Cataclysm).
 * **Project Jaina Lab & DevOps Gateway (Infraestructura Privada):** Orquestador de microservicios, gateway de señalización WebRTC para audio 3D y distribución automatizada de parches.
-* 🌐 **[Portal Oficial de Project Jaina](https://darckrovert.github.io/ProjectJaina_Web/)** — Web oficial, documentación de reinos y centro de descargas.
+* 🌐 **[Portal Oficial de Project Jaina (v7.1 AAA)](https://darckrovert.github.io/ProjectJaina_Web/)** — Armería interactiva Paperdoll Tier 2, Base de Datos AoWoW, Fonoteca Arcana & Kirin Tor FM, Voz Espacial 3D WebRTC, Wiki y centro de descargas.
 
 ---
 
