@@ -163,7 +163,7 @@ AddOns de alto rendimiento para el cliente WotLK 3.3.5a con cero advertencias de
 
 > *"Construir un ecosistema de emulación masivo con modelos neuronales locales, audio espacial 3D y suites de cliente optimizadas bajo una filosofía radical de Cero Telemetría requiere infraestructura dedicada, hardware de pruebas de alta gama y cientos de horas de ingeniería de bajo nivel."*
 
-Si el código de **Project JAIna**, **JainaCore**, nuestros 24 AddOns libres o mis proyectos de investigación criptográfica te han sido de utilidad, considera convertirte en patrocinador para garantizar la sostenibilidad y evolución continua de este ecosistema:
+Si el código de **Project JAIna**, **JainaCore**, nuestros 25 AddOns libres o mis proyectos de investigación criptográfica te han sido de utilidad, considera convertirte en patrocinador para garantizar la sostenibilidad y evolución continua de este ecosistema:
 
 <div align="center">
 
