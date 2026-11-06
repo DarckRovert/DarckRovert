@@ -12,7 +12,9 @@
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/STATUS-ACTIVE%20ARCHITECT-00e5ff?style=for-the-badge&logo=spacex&logoColor=white" alt="Status" /></a>
   <a href="https://github.com/sponsors/DarckRovert"><img src="https://img.shields.io/badge/SPONSOR-GITHUB%20SPONSORS-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
   <a href="https://github.com/DarckRovert?tab=followers"><img src="https://img.shields.io/badge/FOLLOWERS-62-d4af37?style=for-the-badge&logo=github" alt="Followers" /></a>
-  <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-62%20PUBLIC-9d4edd?style=for-the-badge&logo=git" alt="Repositories" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/DarckRovert?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-62%20PUBLIC-9d4edd?style=for-the-badge&logo=github" alt="Repositories" /></a>
   <a href="https://github.com/DarckRovert"><img src="https://img.shields.io/badge/LICENSES-GPL%20%2F%20MIT-brightgreen?style=for-the-badge" alt="Licenses" /></a>
   <a href="https://discord.gg/cXxMuRJrfy"><img src="https://img.shields.io/badge/COMMUNITY-DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
@@ -44,26 +46,28 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
   </a>
 </p>
 
-### Lenguajes de Sistemas & Arquitectura
+### Sistemas de Alto Rendimiento & Motor
 ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust_2021-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Scripting Nativo, Frontend & WebGL
 ![Lua](https://img.shields.io/badge/Lua_5.1%20%2F%20ALE-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Audio Espacial, Gráficos & Redes en Tiempo Real
+### Audio Espacial & Redes en Tiempo Real
 ![WebRTC](https://img.shields.io/badge/WebRTC_3D_Audio-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 ![DirectX](https://img.shields.io/badge/DirectX_9_Tuning-0078D7?style=for-the-badge&logo=windows&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Persistencia, Infraestructura, IA & DevOps
+### Persistencia, IA Soberana & DevOps
 ![MySQL](https://img.shields.io/badge/MySQL_8.4_LTS-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Kernel-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<br/>
 ![Local LLMs](https://img.shields.io/badge/Local_LLM_Inference-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_SCM-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
@@ -76,12 +80,12 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 
 | Proyecto Insignia | Rol Arquitectónico & Especialidad | Stack & Enfoque | Acceso Oficial |
 | :--- | :--- | :--- | :--- |
-| **[RED](https://github.com/DarckRovert/RED)** | **Mensajería P2P Descentralizada Zero-Knowledge**<br/>Protocolo de comunicación cifrada de extremo a extremo sin servidores centrales, bases de datos intermediarias ni recolección de metadatos. | ![Rust](https://img.shields.io/badge/Rust_2021-000000?style=flat-square&logo=rust&logoColor=white) ![ZK](https://img.shields.io/badge/Privacy-Zero--Knowledge-00e5ff?style=flat-square) ![License](https://img.shields.io/badge/License-GPLv3-brightgreen?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repositorio-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/DarckRovert/RED) |
-| **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots)** | **IA Táctica AAA & Multithreading para Bots (C++)**<br/>Simulación de combate humano calibrada (220–360 ms de latencia perceptual), evasión proactiva de áreas de daño y selección multihilo. | ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![AI](https://img.shields.io/badge/Tactical_AI-AAA-d4af37?style=flat-square) ![Thread](https://img.shields.io/badge/Concurrency-Multithread-9d4edd?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repositorio-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/DarckRovert/mod-playerbots) |
-| **[mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter)** | **Inferencia Conversacional Local (LLM) en Tiempo Real**<br/>Integración de modelos neuronales locales (LM Studio / Ollama) desacoplados mediante colas asíncronas no bloqueantes en MySQL y habla contextual. | ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/Local_LLM-Inference-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Async_Queues-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/Repositorio-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/DarckRovert/mod-llm-chatter) |
-| **[ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice)** | **Audio Espacial 3D WebRTC In-Game (HRTF)**<br/>Gateway posicional en tiempo real con paneo estéreo HRTF y atenuación logarítmica de distancia para World of Warcraft 3.3.5a. | ![WebRTC](https://img.shields.io/badge/WebRTC_3D_Audio-333333?style=flat-square&logo=webrtc&logoColor=white) ![Spatial](https://img.shields.io/badge/3D_Audio-HRTF-00e5ff?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-Signaling-009688?style=flat-square&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/Repositorio-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/DarckRovert/ProjectJaina_Voice) |
-| **[ProjectJaina-Imito](https://github.com/DarckRovert/ProjectJaina-Imito)** | **Cliente Oficial World of Warcraft 3.3.5a para Android ARM64**<br/>Emulación Box64 v0.4.5 + Wine 10.10 + Turnip Vulkan 26.1, descarga 1-tap HTTP 206 y firma criptográfica v3. | ![Android](https://img.shields.io/badge/Android-ARM64-3DDC84?style=flat-square&logo=android&logoColor=white) ![Wine](https://img.shields.io/badge/Wine-10.10-8A2BE2?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-Turnip_26.1-red?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repositorio-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/DarckRovert/ProjectJaina-Imito) |
-| **[ProjectJaina_WebClient](https://github.com/DarckRovert/ProjectJaina_WebClient)** | **Cliente Oficial WebGL 3D en Navegador (WoW 3.3.5a)**<br/>Cliente tridimensional cero-descarga, renderizado nativo Three.js, pasarela Gateway WebSocket, audio inmersivo WebAudio y controles táctiles móviles. | ![WebGL](https://img.shields.io/badge/WebGL_3D-Three.js-E34F26?style=flat-square&logo=three.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gateway](https://img.shields.io/badge/Gateway-WebSocket-00ccff?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repositorio-00e5ff?style=flat-square&logo=github&logoColor=black)](https://github.com/DarckRovert/ProjectJaina_WebClient) |
+| 🛡️ **[RED](https://github.com/DarckRovert/RED)** | **Mensajería P2P Descentralizada Zero-Knowledge**<br/>Protocolo de comunicación cifrada de extremo a extremo sin servidores centrales, bases de datos intermediarias ni recolección de metadatos. | ![Rust](https://img.shields.io/badge/Rust_2021-000000?style=flat-square&logo=rust&logoColor=white) ![ZK](https://img.shields.io/badge/Privacy-Zero--Knowledge-00e5ff?style=flat-square) ![License](https://img.shields.io/badge/License-GPLv3-brightgreen?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repo-RED-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/RED) |
+| ⚔️ **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots)** | **IA Táctica AAA & Multithreading para Bots (C++)**<br/>Simulación de combate humano calibrada (220–360 ms de latencia perceptual), evasión proactiva de áreas de daño y selección multihilo. | ![C++](https://img.shields.io/badge/C%2B%2B17%2F20-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![AI](https://img.shields.io/badge/Tactical_AI-AAA-d4af37?style=flat-square) ![Thread](https://img.shields.io/badge/Concurrency-Multithread-9d4edd?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repo-Playerbots-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/mod-playerbots) |
+| 🧠 **[mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter)** | **Inferencia Conversacional Local (LLM) en Tiempo Real**<br/>Integración de modelos neuronales locales (LM Studio / Ollama) desacoplados mediante colas asíncronas no bloqueantes en MySQL y habla contextual. | ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white) ![LLM](https://img.shields.io/badge/Local_LLM-Inference-8A2BE2?style=flat-square&logo=openai&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-Async_Queues-4479A1?style=flat-square&logo=mysql&logoColor=white) | [![GitHub](https://img.shields.io/badge/Repo-Chatter-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/mod-llm-chatter) |
+| 🎙️ **[ProjectJaina_Voice](https://github.com/DarckRovert/ProjectJaina_Voice)** | **Audio Espacial 3D WebRTC In-Game (HRTF)**<br/>Gateway posicional en tiempo real con paneo estéreo HRTF y atenuación logarítmica de distancia para World of Warcraft 3.3.5a. | ![WebRTC](https://img.shields.io/badge/WebRTC_3D_Audio-333333?style=flat-square&logo=webrtc&logoColor=white) ![Spatial](https://img.shields.io/badge/3D_Audio-HRTF-00e5ff?style=flat-square) ![FastAPI](https://img.shields.io/badge/FastAPI-Signaling-009688?style=flat-square&logo=fastapi&logoColor=white) | [![GitHub](https://img.shields.io/badge/Repo-Voice3D-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_Voice) |
+| 📱 **[ProjectJaina-Imito](https://github.com/DarckRovert/ProjectJaina-Imito)** | **Cliente Oficial World of Warcraft 3.3.5a para Android ARM64**<br/>Emulación Box64 v0.4.5 + Wine 10.10 + Turnip Vulkan 26.1, descarga 1-tap HTTP 206 y firma criptográfica v3. | ![Android](https://img.shields.io/badge/Android-ARM64-3DDC84?style=flat-square&logo=android&logoColor=white) ![Wine](https://img.shields.io/badge/Wine-10.10-8A2BE2?style=flat-square) ![Vulkan](https://img.shields.io/badge/Vulkan-Turnip_26.1-red?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repo-Imito__ARM64-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina-Imito) |
+| 🌐 **[ProjectJaina_WebClient](https://github.com/DarckRovert/ProjectJaina_WebClient)** | **Cliente Oficial WebGL 3D en Navegador (WoW 3.3.5a)**<br/>Cliente tridimensional cero-descarga, renderizado nativo Three.js, pasarela Gateway WebSocket, audio inmersivo WebAudio y controles táctiles móviles. | ![WebGL](https://img.shields.io/badge/WebGL_3D-Three.js-E34F26?style=flat-square&logo=three.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Gateway](https://img.shields.io/badge/Gateway-WebSocket-00ccff?style=flat-square) | [![GitHub](https://img.shields.io/badge/Repo-WebClient_3D-00e5ff?style=flat-square&logo=github)](https://github.com/DarckRovert/ProjectJaina_WebClient) |
 
 </div>
 
@@ -90,12 +94,11 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 ### 🌟 Ecosistema JainaCore — Servidor MMORPG de Nueva Generación
 > **El primer ecosistema de servidor World of Warcraft (WotLK 3.3.5a) con LoreBots Neuronales, IA Táctica AAA y Audio Espacial 3D Nativo.**
 
-* **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots):** Simulación táctica de jugadores en C++ con latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), tope progresivo de talentos por expansión (31/41/51 pts), protección de Campeones Soberanos Persistentes y blindaje multihilo.
+* **[JainaCore Engine](https://darckrovert.github.io/ProjectJaina_Web/jainacore.html) (Núcleo Autónomo C++20):** Arquitectura multi-nodo de alta concurrencia (`Errors.log = 0B`), prevención activa anti-split-brain con candado de mantenimiento atómico y motor **Chrono-Master v2.0** con calendario progresivo oficial 2026–2028 (Vanilla Cap 60 → TBC Cap 70 → WotLK Fases T7–T10.5 → Cataclysm).
+* **[mod-playerbots](https://github.com/DarckRovert/mod-playerbots):** Simulación táctica de combate en C++ con latencia perceptual humana calibrada (220–360 ms), evasión dinámica de áreas de daño en suelo (AoE), tope progresivo de talentos por expansión (31/41/51 pts) y salvaguardas forzosas de equipamiento.
 * **[mod-llm-chatter](https://github.com/DarckRovert/mod-llm-chatter):** Inferencia conversacional en tiempo real (LM Studio / Ollama) desacoplada mediante colas asíncronas no bloqueantes en MySQL, memoria de contexto por jugador y habla reactiva por proximidad.
 * **[mod-ale](https://github.com/DarckRovert/mod-ale):** Motor de scripting Eluna extendido con bindings nativos en C++ para control táctico de bots y orquestación de eventos de mundo.
-* **[mod-anticheat](https://github.com/DarckRovert/mod-anticheat):** Sistema de vigilancia cinemática y detección pasiva de anomalías de movimiento.
-* **JainaCore Engine & Server Infrastructure (Infraestructura de Núcleo Soberano):** Arquitectura C++20 multi-nodo de alta concurrencia (`Errors.log = 0B`), prevención activa anti-split-brain con candado de mantenimiento atómico y motor autónomo **Chrono-Master v2.0** con calendario progresivo oficial 2026–2028 (Vanilla Cap 60 → TBC Cap 70 → WotLK Fases T7–T10.5 → Cataclysm).
-* **Project Jaina Lab & DevOps Gateway (Infraestructura Privada):** Orquestador de microservicios, gateway de señalización WebRTC para audio 3D y distribución automatizada de parches.
+* **[mod-anticheat](https://github.com/DarckRovert/mod-anticheat):** Sistema de vigilancia cinemática y detección pasiva de anomalías de movimiento sin sobrecarga de ciclo de CPU.
 * 🌐 **[ProjectJaina_WebClient](https://github.com/DarckRovert/ProjectJaina_WebClient):** Cliente oficial WebGL 3D cero-descarga para navegadores web (PC, móviles y tablets) con renderizado Three.js, controles táctiles 360°, audio espacial y localización íntegra en español.
 * 🌐 **[Portal Oficial de Project Jaina (v7.1 AAA)](https://darckrovert.github.io/ProjectJaina_Web/)** — Armería interactiva Paperdoll Tier 2, Base de Datos AoWoW, Fonoteca Arcana & Kirin Tor FM, Voz Espacial 3D WebRTC, Wiki y centro de descargas.
 
@@ -148,7 +151,7 @@ AddOns de alto rendimiento para el cliente WotLK 3.3.5a con cero advertencias de
 <div align="center">
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=DarckRovert&theme=radical&hide_border=true&background=080b12&ring=00e5ff&fire=d4af37&currStreakLabel=00e5ff" alt="Racha de GitHub" width="85%" />
+  <img src="https://streak-stats.demolab.com/?user=DarckRovert&theme=radical&hide_border=true&background=080b12&ring=00e5ff&fire=d4af37&currStreakLabel=00e5ff" alt="Racha de GitHub" width="495" height="195" style="max-width: 100%; height: auto;" />
 </p>
 
 <p align="center">
