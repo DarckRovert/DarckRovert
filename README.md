@@ -108,7 +108,7 @@ Soy un **Arquitecto de Sistemas e Ingeniero de Software** especializado en el de
 * **[mod-ale](https://github.com/DarckRovert/mod-ale):** Motor de scripting Eluna extendido con bindings nativos en C++ para control táctico de bots y orquestación de eventos de mundo.
 * **[mod-anticheat](https://github.com/DarckRovert/mod-anticheat):** Sistema de vigilancia cinemática y detección pasiva de anomalías de movimiento sin sobrecarga de ciclo de CPU.
 * 🌐 **[ProjectJaina_WebClient](https://github.com/DarckRovert/ProjectJaina_WebClient):** Cliente oficial WebGL 3D cero-descarga para navegadores web (PC, móviles y tablets) con renderizado Three.js, controles táctiles 360°, audio espacial y localización íntegra en español.
-* 🌐 **[Portal Oficial de Project Jaina (v7.1 AAA)](https://darckrovert.github.io/ProjectJaina_Web/)** — Armería interactiva Paperdoll Tier 2, Base de Datos AoWoW, Fonoteca Arcana & Kirin Tor FM, Voz Espacial 3D WebRTC, Wiki y centro de descargas.
+* 🌐 **[Portal Oficial de Project Jaina (v7.4 AAA)](https://darckrovert.github.io/ProjectJaina_Web/)** — Backend nativo en Rust Tokio/Axum (:8080) con latencia < 1 ms, Armería interactiva Paperdoll Tier 2, Base de Datos AoWoW, Fonoteca Arcana & Kirin Tor FM, Voz Espacial 3D WebRTC, Wiki, pasarelas de pago y centro de descargas.
 
 ---
 
